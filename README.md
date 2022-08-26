@@ -10,7 +10,6 @@
 
 ## 📊 My Github Stats
   <a href="https://github.com/vakurin/github-readme-stats"><img alt="Max Github Stats" src="https://github-readme-stats.vercel.app/api?username=Vakurin&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
-  <a href="https://github.com/Vakurin/github-readme-activity-graph" align="center"><img alt="Max Activity Graph" src="https://github-readme-streak-stats.herokuapp.com/?user=Vakurin" /></a>
 <br/>
 <br/>
 
