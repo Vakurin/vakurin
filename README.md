@@ -2,7 +2,9 @@
 
 ## 🙋‍♂️ About Me
 
-- 🔭 I’m founder of multichain DAO solution based on NFT membership - **[NewConnection.xyz](https://newconnection.xyz/)**
+- 💳 Founder of **[LoyaltyGM](https://loyaltygm.com/)** - NFT loyalty reward platform for web3
+
+- 🔭 Also. I’m founder of multichain DAO solution based on NFT membership - **[NewConnection.xyz](https://newconnection.xyz/)**
 
 - 🌱 Prev. **computer vision engineer**
 
