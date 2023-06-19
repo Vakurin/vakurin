@@ -2,11 +2,11 @@
 
 ## 🙋‍♂️ About Me
 
-- 💳 Founder of **[LoyaltyGM](https://loyaltygm.com/)** - NFT loyalty reward platform for web3
+- 💳 Founder of **[HolaSui](https://holasui.app/)** - NFT loyalty reward platform for web3
 
-- 🔭 Also. I’m founder of multichain DAO solution based on NFT membership - **[NewConnection.xyz](https://newconnection.xyz/)**
+- 🔭 Also. I’m the founder of a multichain DAO solution based on NFT membership - **[NewConnection.xyz](https://newconnection.xyz/)**
 
-- 🌱 Prev. **computer vision engineer**
+- 🌱 Prev. **Computer vision engineer**
 
 - 📫 How to reach me **contact@newconnection.xyz**
 
