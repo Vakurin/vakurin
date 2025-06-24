@@ -2,9 +2,9 @@
 
 ## 🙋‍♂️ About Me
 
-- 💳 Founder of **[HolaSui](https://holasui.app/)** - NFT loyalty reward platform for web3
-
-- 🔭 Also. I’m the founder of a multichain DAO solution based on NFT membership - **[NewConnection.xyz](https://newconnection.xyz/)**
+- 💳 Founder of **[PinataBot](https://market.pinatabot.com/)** - The biggest pre-market on Sui Network
 
 - 🌱 Prev. **Computer vision engineer**
+
+
 
